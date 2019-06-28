@@ -1,2 +1,2 @@
 # Python_Task
-In Python Task create login, Resiger, Dashboard Page
+In Python Task create login, Register, Dashboard Page
